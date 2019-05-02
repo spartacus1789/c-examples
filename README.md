@@ -1,2 +1,2 @@
 # c-examples
-some interesting examples on c programming
+The c programming language K&R book ex solutions
