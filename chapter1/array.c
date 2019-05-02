@@ -1,5 +1,8 @@
 #include<stdio.h>
+/*
+	this program will count white space.tabs,digits and other.
 
+*/
 int main(){
     int c,i,nwhite,nother;
     int ndigits[10];
